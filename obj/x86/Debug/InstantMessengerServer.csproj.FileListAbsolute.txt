@@ -1,0 +1,10 @@
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\bin\Debug\server.pfx
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\bin\Debug\tools\generate_cert.bat
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\bin\Debug\InstantMessengerServer.exe
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\bin\Debug\InstantMessengerServer.pdb
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.csprojAssemblyReference.cache
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.exe
+C:\Users\michael.cuomo\AppData\Local\Temp\im_source\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.pdb
+\\smartco.local\Storage\Users\michael.cuomo\My Documents\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.exe
+\\smartco.local\Storage\Users\michael.cuomo\My Documents\InstantMessengerServer\obj\x86\Debug\InstantMessengerServer.pdb
